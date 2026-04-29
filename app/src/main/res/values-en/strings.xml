@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flight Search</string>
+    <string name="no_favorites">No favorite flights. Add flights to favorites</string>
+    <string name="title_add_flight">Add Flight</string>
+    <string name="departure_airport">Departure airport</string>
+    <string name="arrival_airport">Arrival airport</string>
+    <string name="hint_iata_or_name">Enter IATA or airport name</string>
+    <string name="add_to_favorites">Add flight to favorites</string>
+    <string name="view_favorites">View favorite flights</string>
+    <string name="favorites_title">Favorite flights</string>
+    <string name="error_select_both">Select both airports</string>
+    <string name="error_same_airport">Airports must be different</string>
+    <string name="flight_added">Flight added to favorites</string>
+    <string name="error_add">Error adding to favorites</string>
+    <string name="error_search">Search error</string>
+    <string name="deleted_from_favorites">Removed from favorites</string>
+    <string name="error_delete">Error deleting from favorites</string>
+    <string name="flight_info_template">Flight: ✈ %s | Passengers: %d</string>
+    <string name="airport_format">%s - %s</string>
+    <string name="passengers_per_year">Passengers per year: %d</string>
+    <string name="delete_description">Delete</string>
+</resources>
